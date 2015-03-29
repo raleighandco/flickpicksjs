@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background: #fcfcfc;
+    padding: 40px;
+    padding-top: 20px;
+    color: #000000;
+}
+h1, h2, h3 {
+    text-align: center;
+    color: firebrick;
+}
+
+#movieName {
+    width: 98%;
+    padding: 10px;
+    font-size: 1em;
+}
